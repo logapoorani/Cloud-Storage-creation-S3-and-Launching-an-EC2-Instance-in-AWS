@@ -79,6 +79,7 @@ Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance h
 
 
 
+<img width="1920" height="1080" alt="Screenshot 2026-03-13 104922" src="https://github.com/user-attachments/assets/7760b601-c3da-4536-8cb8-cbcbf5b22adf" />
 
 
 
